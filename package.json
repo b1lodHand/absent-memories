@@ -1,0 +1,20 @@
+{
+  "name": "com.absence.memory",
+  "version": "1.0.1",
+  "displayName": "absent-memories",
+  "description": "a simple package for memory management and debugging in Unity.",
+  "unity": "2022.3",
+  "unityRelease": "13f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [],
+  "author": {
+    "name": "absencee_",
+    "email": "",
+    "url": "https://github.com/b1lodHand/"
+  },
+  "dependencies": {
+    "com.unity.memoryprofiler": "1.1.0"
+  }
+}

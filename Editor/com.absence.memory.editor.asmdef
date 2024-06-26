@@ -1,0 +1,18 @@
+{
+    "name": "com.absence.memory.editor",
+    "rootNamespace": "com.absence.memory.editor",
+    "references": [
+        "GUID:20095f3707e35694095be1d899f08aae"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
