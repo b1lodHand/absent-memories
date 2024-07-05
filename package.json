@@ -13,8 +13,5 @@
     "name": "absencee_",
     "email": "",
     "url": "https://github.com/b1lodHand/"
-  },
-  "dependencies": {
-    "com.unity.memoryprofiler": "1.1.0"
   }
 }
